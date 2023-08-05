@@ -21,8 +21,8 @@ See the latest and greatest projects from Toggled. Keep in mind that some of the
 	<br>
 	<ul>
 	<li>Toggled DevPortal</li>
-		<li><a href="//gpt.cosmixcom.repl.co">AI image generation, text generation, summarization, and language detection.</a></li>
-		<li>By the way, our <a href="https://orionide.cf">OrionIDE</a></li>
+		<li><a href="//gpt.cosmixcom.repl.co">Gravity AI. Image generation, text generation, summarization, and language detection.</a></li>
+		<li><a href="https://orionide.cf">OrionIDE</a></li>
 	</ul>
 </details>
 
