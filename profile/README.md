@@ -16,10 +16,13 @@ We supply the tools that developers rely on to manage workflows and tasks. You c
 
 See the latest and greatest projects from Toggled. Keep in mind that some of the projects may be in beta.
 
+<details>
+	<summary>Projects List</summary>
+	<br>
 	<ul>
 	<li>Toggled DevPortal</li>
 		<li><a href="//gpt.cosmixcom.repl.co">AI image generation, text generation, summarization, and language detection.</a></li>
 		<li>By the way, our <a href="https://orionide.cf">OrionIDE</a></li>
 	</ul>
-
+</details>
 ---
