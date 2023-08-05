@@ -1,6 +1,6 @@
 ## Welcome to Toggled 👋
 
-![An expressive oil painting simulating gravity.]([https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg](https://i.ibb.co/85WdLCH/Untitled-design-46.png))
+![An expressive oil painting simulating gravity.](https://i.ibb.co/85WdLCH/Untitled-design-46.png)
 
 Toggled is a startup that has many developer oriented projects. We strive to provide high-quality content with custom ui and ux. You can try 
 
