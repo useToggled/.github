@@ -2,6 +2,8 @@
 
 ![An expressive oil painting simulating gravity.](https://i.ibb.co/85WdLCH/Untitled-design-46.png)
 
+This GitHub page is for products not relevant to our main services at @toggledtech
+
 Toggled is a startup that has many developer-oriented projects. We strive to provide high-quality content with custom UI and UX. We have many products of use to developers, and more are coming soon.
 
 ### 📰 About Us
